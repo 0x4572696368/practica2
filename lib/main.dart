@@ -308,6 +308,7 @@ class MyApp extends StatelessWidget {
           height: 5,
         ),
         TextField(
+          //ok
           keyboardType: TextInputType.emailAddress,
           style: TextStyle(color: Colors.black),
           decoration: InputDecoration(
